@@ -1,4 +1,4 @@
-// import React from "react";
+import React from "react";
 import useToggle from "./hooks/useToggle";
 
 function Toggler() {
